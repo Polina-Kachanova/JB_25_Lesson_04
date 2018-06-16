@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.eml
+*.jar
+*.docx
+*.class
+target
